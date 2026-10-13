@@ -19,7 +19,7 @@ A rule-based AI program written in Python. It builds a fantasy character from th
 3. Open a terminal in the folder with the file and run:
 
 ```
-python character_creator.py
+fantasy_character_creator.py
 ```
 
 On some systems the command is `python3 character_creator.py`.
@@ -32,7 +32,8 @@ No third-party packages are needed. The program uses only Python's standard libr
 
 | File | Description |
 | --- | --- |
-| `character_creator.py` | The program |
+| `fantasy_character_creator.py
+` | The program |
 | `requirements.txt` | Dependencies (none beyond Python 3) |
 | Project document (PDF or Word) | Three project ideas, the rules and logic, three test results, and a reflection |
 
