@@ -15,7 +15,7 @@ A rule-based AI program written in Python. It builds a fantasy character from th
 ## How to run
 
 1. Install Python 3 (https://www.python.org/downloads/).
-2. Download `character_creator.py` from this repository.
+2. Download `fantasy_character_creator.py` from this repository.
 3. Open a terminal in the folder with the file and run:
 
 ```
